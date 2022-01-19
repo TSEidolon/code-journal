@@ -9,6 +9,7 @@ Self Assessment Metrics:
 
 Class-notes:
  - <a href="https://github.com/TSEidolon/in-class/blob/main/01-19/in_class_notes.html" target="_blank">"01-19 class notes in html"  </a>
+  - <a href="https://github.com/TSEidolon/in-class/blob/main/01-19/css/styles-01-19.css" target="_blank">"CSS using font styles covered in class"  </a>
    - Tried to write class notes in HTML. 
    - Looks horrible but it'll do. 
 
