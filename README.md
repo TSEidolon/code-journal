@@ -1,5 +1,31 @@
 # Code Journal
+<hr>
+
+Dated Journal Entry <strong> (CPNT-260) </strong>
+## Jan 20, 2022
+
+Self assessment:
+ - I want to practice CSS layouts
+   - utilize the `float` property to make images float beside a text
+      - Did not figure out how to place beside the actual text; ended up on the other side of the page? (check code pen link below for visualization)
+   - font-family usage
+
+Proof of Work:
+ - created a Wiki article activity on <strong> Codepen </strong> utilizing the `float` property
+   -  <a href="https://codepen.io/tseidolon/pen/XWeLNdz" target="_blank"> "Harry Potter Wiki Article Activity" </a>
+
+Research:
+ - "image beside heading html" --> `<h1><img src="img/logo.png" alt="logo" /> My website name</h1>` 
+   - <a href="https://stackoverflow.com/questions/11701311/logo-image-and-h1-heading-on-the-same-line" target="_blank">  "stackoverflow" </a>
+ - "CSS float" --> `img {float: right;}`
+   - <a href="https://www.w3schools.com/css/css_float.asp" target="_blank">  "W3schools" </a>
+
+
+<br>
+<hr>
+<hr>
 Dated Journal Entries <strong> (DSGN 270) </strong>
+
 ## Jan 19, 2022
 Self assessment:
  - I want to practice HTML by using it in VS code instead of markdown to write journals
