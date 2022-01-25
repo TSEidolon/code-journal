@@ -13,11 +13,11 @@ Class Work:
  - Experimented with different transitions for the `:hover{}` property
    - `transition: color 300ms linear` seemed great for this use case.
  - Wanted to use color hues that were similar to the ones that were used in the ‘Harry Potter’ movie posters
-  -  Downloaded “Color Picker” extension for Google Chrome
+   - Downloaded <strong> “Color Picker” </strong> extension for Google Chrome
 
 
 Troubleshooting:
- - Ran into a problem with the hover property → cause = placed in the wrong nested element? `(nav-items)`
+ - Ran into a problem with the `hover{}` property → cause = placed in the wrong nested element? `(nav-items)`
    - solution = moved into the right nest `(nav-items-categories)`
 
 <br>
