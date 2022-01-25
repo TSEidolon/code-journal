@@ -1,8 +1,30 @@
 # Code Journal
 <hr>
-
 Dated Journal Entry <strong> (CPNT-260) </strong>
-## Jan 20, 2022
+<h2> Jan 24, 2022 </h2>
+
+Self assessment:
+ - Practice <em> Flex Box </em> more by redoing the Navigation assignment 
+   - landed on a more visually appealing final product:
+      - <a href="https://codepen.io/tseidolon/pen/ZEXddbR" target="_blank"> "Old Navigation bar (January 21)" </a>
+      - <a href="https://codepen.io/tseidolon/pen/ExbYLGP" target="_blank"> "New Navigation bar (January 24) </a>
+
+Class Work:
+ - Experimented with different transitions for the `:hover{}` property
+   - `transition: color 300ms linear` seemed great for this use case.
+ - Wanted to use color hues that were similar to the ones that were used in the ‘Harry Potter’ movie posters
+  -  Downloaded “Color Picker” extension for Google Chrome
+
+
+Troubleshooting:
+ - Ran into a problem with the hover property → cause = placed in the wrong nested element? `(nav-items)`
+   - solution = moved into the right nest `(nav-items-categories)`
+
+<br>
+<hr>
+<hr>
+Dated Journal Entry <strong> (CPNT-260) </strong>
+<h2> Jan 20, 2022 </h2>
 
 Self assessment:
  - I want to practice CSS layouts
