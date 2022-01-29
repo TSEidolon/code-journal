@@ -6,7 +6,7 @@ Dated Journal Entry <strong> (CPNT-260) </strong>
 
 Self Assessment:
   - Practiced Grid Layouts for the Products Assignment (cpnt-260a2)
-  - experimented with the css command
+  - Experimented with the css command
 
  ```
     grid-template-areas: 
@@ -14,11 +14,14 @@ Self Assessment:
     "sidebar content"
     "sidebar content" 
   ```
-  - came across a new color expression: `hsl()` in <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl()" target="_blank">MDN-hsl</a>.
-    - great for changing a colours `hsl (hue saturation opacity)`.
+  - Came across a new color expression: `hsl()` in <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl()" target="_blank">MDN-hsl</a>.
+    - Great for changing a colours `hsl (hue saturation opacity)`.
 
 Class Work:
   - Did the <strong>"404 Error"</strong>Class Activity. <a href="https://codepen.io/tseidolon/pen/yLPYLNB" target="_blank">404 Codepen Activity</a>.
+Attribution:
+  - Wikipedia is great for specific png images under fair use licenses. searchign for "free png images" on google also works wonders.
+  - I have my <em>attributions</em> for my assignments on my <a href="https://github.com/TSEidolon/cpnt260-a1" target="_blank">README.md</a> files such as this one.
 
 Troubleshooting:
   - Tried to do grid but i wanted to edit the left margin of row 2 without affecting the other rows. 
