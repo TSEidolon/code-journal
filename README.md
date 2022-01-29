@@ -1,6 +1,34 @@
 # Code Journal
 <hr>
 Dated Journal Entry <strong> (CPNT-260) </strong>
+<h2> Jan 28, 2022 </h2>
+
+
+Self Assessment:
+  - Practiced Grid Layouts for the Products Assignment (cpnt-260a2)
+  - experimented with the css command
+
+ ```
+    grid-template-areas: 
+    "header header"
+    "sidebar content"
+    "sidebar content" 
+  ```
+  - came across a new color expression: `hsl()` in <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl()" target="_blank">MDN-hsl</a>.
+    - great for changing a colours `hsl (hue saturation opacity)`.
+
+Class Work:
+  - Did the <strong>"404 Error"</strong>Class Activity. <a href="https://codepen.io/tseidolon/pen/yLPYLNB" target="_blank">404 Codepen Activity</a>.
+
+Troubleshooting:
+  - Tried to do grid but i wanted to edit the left margin of row 2 without affecting the other rows. 
+    - ` grid-template-rows: minmax(150px 200px);`
+    - Did not succeed. It just edits the size of the rows as a whole.
+<br>
+<hr>
+<hr>
+
+Dated Journal Entry <strong> (CPNT-260) </strong>
 <h2> Jan 24, 2022 </h2>
 
 Self assessment:
