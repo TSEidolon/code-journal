@@ -1,6 +1,36 @@
 # Code Journal
 <hr>
 Dated Journal Entry <strong> (CPNT-260) </strong>
+<h2> Feb 4, 2022 </h2>
+Self Assessment:
+
+- Practiced Javascript basics in class.
+- Tried to utilize making a hamburger menu for my navbar Hero section assignment (Assignment 4).
+- Used `.active` in CSS:
+    -  `navbar-links.active {}`
+    - makes it so that it can be activated <em>ON/OFF</em> in js
+
+Troubleshooting:
+ - could not figure out why my script.js file was not being recognized on my <strong>index.html</strong> file
+  - Had to go on <em>Youtube</em> and follow tutorials for the Hamburger Nav Menu
+      - <a href="https://www.youtube.com/watch?v=At4B7A4GOPg" target="_blank">Responsive Navbar Tutorial by "Web Dev Simplified"</a>
+
+TODO:
+ - Add transformation animations for the Hamburger Menu
+ - <a href="https://codepen.io/tseidolon/pen/XWzjOEe" target="_blank"> Code Pen for Hamburger Menu</a>
+
+
+
+
+
+
+
+
+<br>
+<hr>
+<hr>
+
+# Dated Journal Entry <strong> (CPNT-260) </strong>
 <h2> Jan 28, 2022 </h2>
 
 
@@ -31,7 +61,7 @@ Troubleshooting:
 <hr>
 <hr>
 
-Dated Journal Entry <strong> (CPNT-260) </strong>
+# Dated Journal Entry <strong> (CPNT-260) </strong>
 <h2> Jan 24, 2022 </h2>
 
 Self assessment:
@@ -54,7 +84,8 @@ Troubleshooting:
 <br>
 <hr>
 <hr>
-Dated Journal Entry <strong> (CPNT-260) </strong>
+
+# Dated Journal Entry <strong> (CPNT-260) </strong>
 <h2> Jan 20, 2022 </h2>
 
 Self assessment:
@@ -77,7 +108,8 @@ Research:
 <br>
 <hr>
 <hr>
-Dated Journal Entries <strong> (DSGN 270) </strong>
+
+# Dated Journal Entries <strong> (DSGN 270) </strong>
 
 ## Jan 19, 2022
 Self assessment:
