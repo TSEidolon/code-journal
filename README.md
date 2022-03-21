@@ -1,7 +1,51 @@
 # Code Journal
+
+
 <hr>
-Dated Journal Entry <strong> (CPNT-260) </strong>
-<h2> Feb 4, 2022 </h2>
+
+# Dated Journal Entries <strong> (DSGN 270) </strong>
+## March 20, 2022
+
+Repo for the SVG-Animation test 
+- <a href="https://github.com/TSEidolon/SVG-Button-Animation" target="_blank">SVG-Button-Animation By Edgar Caballero</a>
+- <a href="https://tseidolon.github.io/SVG-Button-Animation/" target="_blank">Live Pages</a>
+
+
+SVG-Button-Animation
+Test build from <a href="https://www.youtube.com/watch?v=UTHgr6NLeEw&list=WL&index=48&t=1s" target="_blank">Make Awesome SVG Animations with CSS // 7 Useful Techniques</a>
+ - Attempted to use <strong>transition animations </strong> for SVGs created in Figma.
+  - Utilized the `transition and transform` commands
+
+```
+    #dark1,
+    #dark2,
+    #light1 {
+      transition: all 1s ease;
+    }
+
+    #dark2 {
+      transform: translateX(-100%);
+    }
+    svg:hover #light1 {
+      transform: translateX(20%)
+    }
+    svg:hover #dark1 {
+      transform: translateX(40%);
+      opacity: 0;
+    }
+
+    svg:hover #dark2 {
+      transform: translateX(0%);
+    }
+```
+
+
+
+
+<hr>
+
+# Dated Journal Entry <strong> (CPNT-260) </strong>
+## Feb 4, 2022 
 Self Assessment:
 
 - Practiced Javascript basics in class.
